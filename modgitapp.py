@@ -1,7 +1,6 @@
 ######################################################################################################################################
 #Resultant vector:
 import streamlit as st
-from annotated_text import annotated_text
 import numpy as np
 import numpy.linalg as LA
 import math as m
